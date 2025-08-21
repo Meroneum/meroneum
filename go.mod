@@ -1,6 +1,6 @@
 module github.com/evmos/evmos/v18
 
-go 1.22.2
+go 1.23
 
 require (
 	cosmossdk.io/api v0.3.1
@@ -50,7 +50,7 @@ require (
 	golang.org/x/text v0.16.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240318140521-94a12d6c2237
 	google.golang.org/grpc v1.64.0
-	google.golang.org/protobuf v1.34.2
+	google.golang.org/protobuf v1.36.8
 	sigs.k8s.io/yaml v1.4.0
 )
 
